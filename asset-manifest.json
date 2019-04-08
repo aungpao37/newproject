@@ -1,15 +1,15 @@
 {
-  "main.css": "/tarangson/static/css/main.917630a7.chunk.css",
-  "main.js": "/tarangson/static/js/main.6ba2a0f2.chunk.js",
-  "main.js.map": "/tarangson/static/js/main.6ba2a0f2.chunk.js.map",
-  "runtime~main.js": "/tarangson/static/js/runtime~main.067ebfa6.js",
-  "runtime~main.js.map": "/tarangson/static/js/runtime~main.067ebfa6.js.map",
-  "static/js/2.e4420912.chunk.js": "/tarangson/static/js/2.e4420912.chunk.js",
-  "static/js/2.e4420912.chunk.js.map": "/tarangson/static/js/2.e4420912.chunk.js.map",
-  "index.html": "/tarangson/index.html",
-  "precache-manifest.84fe81f21f2bd4d21c608a8dca9a3275.js": "/tarangson/precache-manifest.84fe81f21f2bd4d21c608a8dca9a3275.js",
-  "service-worker.js": "/tarangson/service-worker.js",
-  "static/css/main.917630a7.chunk.css.map": "/tarangson/static/css/main.917630a7.chunk.css.map",
-  "static/media/PrintPreview.svg": "/tarangson/static/media/PrintPreview.e2de3636.svg",
-  "static/media/logo.png": "/tarangson/static/media/logo.049c3b3b.png"
+  "main.css": "/myapp/static/css/main.917630a7.chunk.css",
+  "main.js": "/myapp/static/js/main.d54a1c31.chunk.js",
+  "main.js.map": "/myapp/static/js/main.d54a1c31.chunk.js.map",
+  "runtime~main.js": "/myapp/static/js/runtime~main.e4f53ea3.js",
+  "runtime~main.js.map": "/myapp/static/js/runtime~main.e4f53ea3.js.map",
+  "static/js/2.e4420912.chunk.js": "/myapp/static/js/2.e4420912.chunk.js",
+  "static/js/2.e4420912.chunk.js.map": "/myapp/static/js/2.e4420912.chunk.js.map",
+  "index.html": "/myapp/index.html",
+  "precache-manifest.b3e5330fe2d75ff995557838520ab334.js": "/myapp/precache-manifest.b3e5330fe2d75ff995557838520ab334.js",
+  "service-worker.js": "/myapp/service-worker.js",
+  "static/css/main.917630a7.chunk.css.map": "/myapp/static/css/main.917630a7.chunk.css.map",
+  "static/media/PrintPreview.svg": "/myapp/static/media/PrintPreview.e2de3636.svg",
+  "static/media/logo.png": "/myapp/static/media/logo.049c3b3b.png"
 }
